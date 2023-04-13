@@ -1,3 +1,3 @@
 # Stepik_Homeworks
 
-https://stepik.org/lesson/187065/step/7?unit=161976
+Прапктические задания по первому и второму модулю
