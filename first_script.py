@@ -36,10 +36,10 @@ submit_button1.click()
 time.sleep(5)
 
 textarea1 = driver.find_element(By.ID, "id_login_email")
-textarea1.send_keys("alla051983@inbox.ru")
+textarea1.send_keys("")
 
 textarea2 = driver.find_element(By.ID, "id_login_password")
-textarea2.send_keys("Alla5370")
+textarea2.send_keys("")
 
 
 submit_button2 = driver.find_element(By.CSS_SELECTOR, ".sign-form__btn.button_with-loader")
